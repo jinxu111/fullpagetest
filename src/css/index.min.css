@@ -1,0 +1,16 @@
+.clearfix {
+  zoom: 1;
+}
+.clearfix:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+
+#app {
+  width: 100px;
+  height: 100px;
+  background: gray;
+}
+
+/*# sourceMappingURL=index.min.css.map */
